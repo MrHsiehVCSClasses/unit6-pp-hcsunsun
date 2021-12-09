@@ -7,8 +7,8 @@ class Main {
     "Remove this line at your leisure.");
 
     // uncomment to play blackjack
-    //Blackjack blackjack = new Blackjack();
-    //blackjack.play();
+    Blackjack blackjack = new Blackjack();
+    blackjack.play();
     
     // uncomment to play yahtzee
     //Yahtzee yahtzee = new Yahtzee();
